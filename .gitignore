@@ -1,0 +1,9 @@
+venv39/
+.env
+__pycache__/
+
+# Pytest cache
+.pytest_cache/
+
+# Python cache files
+*.pyc
